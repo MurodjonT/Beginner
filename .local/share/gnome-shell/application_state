@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="snap-store_ubuntu-software.desktop" score="0.5" last-seen="1629634189"/>
-    <application id="org.gnome.Nautilus.desktop" score="6127" last-seen="1629906595"/>
-    <application id="gnome-initial-setup.desktop" score="1.5" last-seen="1629633350"/>
-    <application id="firefox.desktop" score="172" last-seen="1629906772"/>
-    <application id="org.gnome.Terminal.desktop" score="13680" last-seen="1629906743"/>
-    <application id="org.gnome.gedit.desktop" score="4" last-seen="1629906640"/>
-    <application id="libreoffice-writer.desktop" score="1" last-seen="1629906570"/>
-    <application id="gnome-control-center.desktop" score="3.5" last-seen="1629636959"/>
-    <application id="apport-gtk.desktop" score="0" last-seen="1629638872"/>
-    <application id="update-manager.desktop" score="0" last-seen="1629633412"/>
+    <application id="libreoffice-writer.desktop" score="12" last-seen="1629911024"/>
     <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1629905156"/>
+    <application id="gnome-control-center.desktop" score="3.5" last-seen="1629636959"/>
+    <application id="org.gnome.gedit.desktop" score="485" last-seen="1629911341"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1629638872"/>
+    <application id="org.gnome.Nautilus.desktop" score="6140" last-seen="1629911366"/>
+    <application id="libreoffice-draw.desktop" score="0" last-seen="0"/>
+    <application id="update-manager.desktop" score="0" last-seen="1629633412"/>
+    <application id="snap-store_ubuntu-software.desktop" score="0.5" last-seen="1629634189"/>
+    <application id="gnome-initial-setup.desktop" score="1.5" last-seen="1629633350"/>
+    <application id="firefox.desktop" score="232" last-seen="1629911138"/>
+    <application id="org.gnome.Terminal.desktop" score="13750" last-seen="1629911318"/>
     <application id="org.gnome.DiskUtility.desktop" score="6" last-seen="1629638874"/>
   </context>
 </application-state>
